@@ -1,0 +1,26 @@
+{
+  "name": "wxy-design",
+  "version": "0.0.1",
+  "description": "this is an UI design pakeage with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boy-dance/wxyDesign.git"
+  },
+  "keywords": [
+    "design",
+    "react",
+    "UI",
+    "wangxinyu",
+    "wxy"
+  ],
+  "author": "WangXinyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boy-dance/wxyDesign/issues"
+  },
+  "homepage": "https://github.com/boy-dance/wxyDesign#readme"
+}
